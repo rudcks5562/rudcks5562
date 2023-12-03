@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**rudcks5562/rudcks5562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ <div align=center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 📖 introduction
+ 안녕하세요. 현재 BE개발자와 게임개발을 같이 공부중인 <br>
+열정넘치는 개발자 입니다.<br> 
+  
+
+## 🐤 Skill
+<img src="https://img.shields.io/badge/JAVA-black">, <img src="https://img.shields.io/badge/Spring-green">, <img src="https://img.shields.io/badge/JPA-orange">, <img src="https://img.shields.io/badge/mysql-gray">
+
+## ✏️ Study & Develop 
+<img src="https://img.shields.io/badge/C++-black">, <img src="https://img.shields.io/badge/C-gray">, <img src="https://img.shields.io/badge/JAVA-blue">,<img src="https://img.shields.io/badge/unreal-black">,<img src="https://img.shields.io/badge/unity-black">
+
+## ♠️ problem solve <br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudcks5562)](https://solved.ac/rudcks5562)
+
+ </div>
+# :
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudcks5562)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudcks5562)](https://github.com/anuraghazra/github-readme-stats)
