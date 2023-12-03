@@ -25,4 +25,8 @@
 
 ## 🎸 etc 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudcks5562)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+🔗 notion portfolio link : https://polite-boater-51a.notion.site/s-8678389584834706986426f8a02787b8 <br>
+ 
  </div>
+
