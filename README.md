@@ -17,7 +17,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudcks5562)](https://solved.ac/rudcks5562)
 
-
-
+## 🔖 Project
+- 🎮 cookscape : unity engine을 사용하여 개발한 요리사와 식재료의 서바이벌 게임 - 🏆 ssafy 특화프로젝트 우수상 <br>
+- 🎧 dubing : 더빙을 재미있게 하기 위한 프로젝트 - 🏆 ssafy 자율프로젝트 우수상 <br>
+- 🎲 ssavalon : 리팩토링 예정..(웹에 보드게임 이식하는 프로젝트) <br>
+- 🖥️ ERP : C# winform+ mysql 을 사용한 기업용 erp 프로그램 개발 프로젝트 - 💯 처음 A+ 받은 단기 프로젝트 <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudcks5562)](https://github.com/anuraghazra/github-readme-stats)
  </div>
