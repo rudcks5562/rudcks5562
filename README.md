@@ -3,8 +3,8 @@
  <div align=left>
 
   ## 📖 introduction
- 안녕하세요. 현재 BE개발자와 게임개발을 같이 공부중인 <br>
-열정넘치는 개발자 입니다.<br> 
+ 안녕하세요.<br>
+열정넘치는 개발자 임경찬 입니다.<br> 
   
 
 ## 🐤 Skill
