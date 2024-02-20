@@ -20,7 +20,7 @@
 ## 🔖 Project
 - 🎮 cookscape : unity engine을 사용하여 개발한 요리사와 식재료의 서바이벌 게임 - 🏆 ssafy 특화프로젝트 우수상 <br>
 - 🎧 dubing : 더빙을 재미있게 하기 위한 프로젝트 - 🏆 ssafy 자율프로젝트 우수상 <br>
-- 🎲 catstory : unity를 사용한 2d횡스크롤 어드벤쳐 게임 개발 프로젝트(현재 개발중) <br>
+- 🎲 PLAN : c++학습후 콘솔 테트리스->opengl, dx11 그래픽스 학습 -> 2d 게임(유니티) -> 3d 게임(언리얼,유니티 중 택일)  <진행중!>
 - 🖥️ ERP : C# winform+ mysql 을 사용한 기업용 erp 프로그램 개발 프로젝트 - 💯 처음 A+ 받은 단기 프로젝트 <br>
 
 ## 🎸 etc 
