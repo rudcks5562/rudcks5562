@@ -9,10 +9,17 @@
   
 
 ## 🐤 Skill
-<img src="https://img.shields.io/badge/JAVA-black">, <img src="https://img.shields.io/badge/Spring-green">, <img src="https://img.shields.io/badge/JPA-orange">, <img src="https://img.shields.io/badge/mysql-gray">
+<img src="https://img.shields.io/badge/JAVA-black"> : JAVA를 활용해 다양한 시스템과 프로그램을 개발할 수 있습니다. <br>
+<img src="https://img.shields.io/badge/Spring-green"> : spring boot를 활용해 기본적인 서버를 구축할 수 있습니다. <br>
+<img src="https://img.shields.io/badge/JPA-orange"> : JPA를 사용하여 DB 테이블을 구현할 수 있습니다. <br> 
+<img src="https://img.shields.io/badge/mysql-gray"> : mysql을 연동하여 mybatis 또는 JPA를 사용하여 DB를 구축할 수 있습니다. <br>
 
 ## ✏️ Study & Develop 
-<img src="https://img.shields.io/badge/C++-black">, <img src="https://img.shields.io/badge/C-gray">, <img src="https://img.shields.io/badge/JAVA-blue">,<img src="https://img.shields.io/badge/unreal-black">,<img src="https://img.shields.io/badge/unity-black">
+<img src="https://img.shields.io/badge/C++-black"> : c++을 현재 학습 중 입니다.<br>
+<img src="https://img.shields.io/badge/C-gray">: objective-c를 현재 복습하고 있습니다.<br> 
+<img src="https://img.shields.io/badge/JAVA-blue"> : JAVA의 collection과 다양한 자료구조를 알고리즘을 풀이하며 공부하고 있습니다.<br>
+<img src="https://img.shields.io/badge/unreal-black"> : c++을 공부하고 나서 언리얼 엔진을 활용해 취미로 인디게임을 만들기 위해 공부할 예정입니다.<br>
+<img src="https://img.shields.io/badge/unity-black"> : c++을 공부하고 나서 유니티 엔진을 활용해 취미로 인디게임을 만들기 위해 공부할 예정입니다.<br>
 
 ## ♠️ problem solve <br>
 [![Solved.ac
