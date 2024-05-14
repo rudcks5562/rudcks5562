@@ -8,12 +8,6 @@
 임경찬 입니다.<br> 
 
 
-## ✏️ Study & Develop 
-<img src="https://img.shields.io/badge/C++-black"> : c++을 현재 학습 중 입니다.<br>
-<img src="https://img.shields.io/badge/JAVA-blue"> : JAVA의 collection과 다양한 자료구조를 알고리즘을 풀이하며 공부하고 있습니다.<br>
-<img src="https://img.shields.io/badge/unreal-black"> : c++을 공부하고 나서 언리얼 엔진을 활용해 취미로 인디게임을 만들기 위해 공부할 예정입니다.<br>
-<img src="https://img.shields.io/badge/unity-black"> : c++을 공부하고 나서 유니티 엔진을 활용해 취미로 인디게임을 만들기 위해 공부할 예정입니다.<br>
-
 ## ♠️ problem solve <br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudcks5562)](https://solved.ac/rudcks5562)
