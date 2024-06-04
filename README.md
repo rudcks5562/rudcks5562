@@ -15,9 +15,11 @@
 ## 🔖 Project
 - 🎮 cookscape : unity engine을 사용하여 개발한 요리사와 식재료의 서바이벌 게임 - 🏆 ssafy 특화프로젝트 우수상 <br>
 - 🎧 dubing : 더빙을 재미있게 하기 위한 프로젝트 - 🏆 ssafy 자율프로젝트 우수상 <br>
-- 🎲 PLAN : c++학습후 콘솔 테트리스 <진행중!>
 - 🖥️ ERP : C# winform+ mysql 을 사용한 기업용 erp 프로그램 개발 프로젝트 - 💯 처음 A+ 받은 단기 프로젝트 <br>
+- 💿 Tetris: c++을 사용하여 콘솔창에서 플레이 가능한 테트리스 개발 프로젝트 - 처음 혼자 만들어본 게임 <br> 
+- 🎲 PLAN : graphics DX11 <진행중!>   <br>
 
+  
 ## 🎸 etc 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudcks5562)](https://github.com/anuraghazra/github-readme-stats)
 <br>
